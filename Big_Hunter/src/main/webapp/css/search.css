@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+.search{
+	
+	margin-left: 60%;
+	
+}
+
+.input{
+	width: 500px;
+	height: 50px;
+	text-align: center;
+}

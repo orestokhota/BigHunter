@@ -1,0 +1,7 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background:  #fff url('https://newsneakernews-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/nikelab-vapormax-triple-black-4.jpg') no-repeat center center fixed;
+ background-size:cover;
+  height:100vh;
+}
